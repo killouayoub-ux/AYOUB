@@ -1,0 +1,5 @@
+n=input("donner un entier : ") #HNA WAKHA F L'EXERCICE TALBINE 3DAD 7NA DERNAH 3LA CHKEL CARACTERE BACH IMKEN N3ERFO CH7AL FIH MN RA9M
+c=0 #HADA CONTEUR GHAYEB9A YZID B 1 KOLLA MERRA ZADO LES CHIFRES
+for i in n:
+    c=c+1
+print("le nombre de chiffre est : ",c)
